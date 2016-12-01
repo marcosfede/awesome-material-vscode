@@ -1,0 +1,27 @@
+{
+    "name": "awesome-material-theme",
+    "displayName": "Awesome Material Theme",
+    "description": "Awesome Material Theme based on sublime material colors",
+    "version": "0.2.0",
+    "publisher": "marcosfede",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Awesome Material Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Awesome-Material-Vscode.tmTheme"
+            }
+        ]
+    },
+    "__metadata": {
+        "id": "3e094790-b31f-4f0a-8e20-4723a517badc",
+        "publisherId": "dc93ca31-a2f0-4083-8279-487c093c39b5",
+        "publisherDisplayName": "Federico Marcos"
+    }
+}
