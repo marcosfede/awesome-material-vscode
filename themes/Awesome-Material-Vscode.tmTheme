@@ -199,7 +199,7 @@ support.function, keyword.other.special-method, meta.block-level</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF5370</string>
+				<string>#CAD3DE</string>
 			</dict>
 		</dict>
 		<dict>
